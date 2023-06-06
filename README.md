@@ -1,8 +1,4 @@
-# Halo semua! 
-
-Perkenalkan nama saya **LotuS**.\
-
-Saya seorang **Junior Dev** dan sedang training [Dicoding](https://www.dicoding.com/).\
+ciao !
 
 <p align="left">
 <a href="https://github.com/LotuS16">
