@@ -31,19 +31,6 @@ Saya terbiasa bekerja melintasi batas antara desain dan *engineering*. Berikut a
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Mari Terhubung!
 
 <p align="center">
