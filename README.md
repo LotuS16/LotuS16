@@ -9,21 +9,21 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-- 🔭 Saat ini sedang berfokus pada **pengembangan platform (termasuk proyek seperti SatuTani)** dan merancang solusi *user experience* yang optimal.
-- 🌱 Sangat antusias dalam **perancangan basis data, deep research pengguna, dan System Development**.
-- 💼 Berpengalaman merancang alur dan antarmuka untuk platform *mobile* maupun *desktop*.
-- ⚡ Fun fact: Saya mengandalkan kombinasi **macOS dan Linux Ubuntu** sebagai *daily driver* untuk mendukung produktivitas desain dan *coding* saya.
+- 🔭 Currently focusing on **platform development (including projects like SatuTani)** and designing optimal *user experience* solutions.
+- 🌱 Highly enthusiastic about **database design, deep user research, and System Development**.
+- 💼 Experienced in crafting flows and user interfaces for both *mobile* and *desktop* platforms.
+- ⚡ Fun fact: I rely on a combination of **macOS and Linux Ubuntu** as my daily drivers to power my design and coding productivity.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-Saya terbiasa bekerja melintasi batas antara desain dan *engineering*. Berikut adalah teknologi yang saya gunakan:
+I am accustomed to bridging the gap between design and engineering. Here are the technologies and tools I frequently use:
 
 <p align="center">
-  <!-- Daftar ikon bisa ditambah/dikurangi sesuai kebutuhan. Referensi: https://skillicons.dev -->
+  <!-- You can add/remove icons as needed. Reference: https://skillicons.dev -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vue,ts,express,prisma,postgres,linux,apple" alt="Tech Stack Icons" />
   </a>
@@ -31,13 +31,13 @@ Saya terbiasa bekerja melintasi batas antara desain dan *engineering*. Berikut a
 
 ---
 
-### 📫 Mari Terhubung!
+### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:email-anda@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/linkedin-anda">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
